@@ -1,9 +1,15 @@
-﻿{
-	"api_version": "0.14.0",
-	"author": "MWHispanos",
+{
+	"api_version": "0.24.0",
+	"author": "MWH.json",
+	"en_author": "MWH.json"
+	"esn_author": "MWH.json"
 	"authoruin": 1004863995,
-	"description": "Make your own Ultra Survival Mode with our pack",
+	"description": "Make your own Ultra Survival Mode Server with our pack",
+	"en_description": "Make your own Ultra Survival Mode Server with our pack",
+	"esn_description": "Haz tu propio server en modo Ultra Survival con este pack",
 	"name": "MWHispanos System",
+	"en_name": "MWHispanos System",
+	"esn_name": "MWHispanos System"
 	"open_edit": true,
 	"pack_version": "0.1",
 	"restart_required": false,

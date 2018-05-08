@@ -1,0 +1,101 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100004,
+			"key": "1004158810667f325c-1ff1-11e7-93ae-92361f0026711525797788" 
+		} 
+	],
+	"mod_desc": {
+		"author": "1004158810",
+		"filename": "Spider",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack": 20,
+		"attack_distance": 1,
+		"attack_type": 0,
+		"buff_id": 0,
+		"desc": "",
+		"drop_exp": 13,
+		"drop_exp_prob": 100,
+		"drop_item1": 12527,
+		"drop_item2": 100004,
+		"drop_item3": 0,
+		"drop_item_prob1": 100,
+		"drop_item_prob2": 100,
+		"drop_item_prob3": 0,
+		"height": 95,
+		"hit_height": 130,
+		"hit_thickness": 130,
+		"hit_width": 130,
+		"icon": "3107",
+		"id": 3107,
+		"life": 70,
+		"model": "100037",
+		"model_scale": 0.8,
+		"name": "Spider",
+		"speed": 300,
+		"team_id": 0,
+		"type": 0,
+		"view_distance": 16,
+		"width": 95 
+	},
+	"set_ai": [
+		{
+			"name": "follow_direction",
+			"priority": 1,
+			"speed": 1.1 
+		},
+		{
+			"name": "wander",
+			"priority": 4,
+			"speed": 0.8 
+		},
+		{
+			"name": "look_idle",
+			"priority": 6 
+		},
+		{
+			"name": "go_ceiling",
+			"priority": 1,
+			"prob": 1 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
+		},
+		{
+			"attack_type": 0,
+			"move_speed": 1,
+			"name": "attack",
+			"priority": 2,
+			"will_trace": false 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": true,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		},
+		{
+			"attach_timer": 200,
+			"name": "ceiling_atk",
+			"priority": 0 
+		},
+		{
+			"max_range": 600,
+			"min_range": 100,
+			"motion_y": 40,
+			"name": "leap_at_target",
+			"priority": 2 
+		},
+		{
+			"dist": 800,
+			"name": "watch_closest",
+			"priority": 5 
+		} 
+	] 
+} 

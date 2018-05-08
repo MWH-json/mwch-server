@@ -1,0 +1,32 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100016,
+			"key": "1004158810667f325c-1ff1-11e7-93ae-92361f0026711525799058" 
+		} 
+	],
+	"mod_desc": {
+		"author": "1004158810",
+		"filename": "1525798600",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"bullet_id": 100016,
+		"bulletid_filename": "1525799058",
+		"continuous_fire": false,
+		"copyid": 10104,
+		"describe": "#cFFFFFF AAAAAAAAAAAAAAAAAAAAA TOO MANY BULLETS AAAAAAAA",
+		"fire_interval": 300,
+		"gun_attack": 30,
+		"gun_speed_add": 0,
+		"gun_type": 10105,
+		"icon": "*15005",
+		"id": 100012,
+		"magazines": 6,
+		"model": "*15005",
+		"name": "#cff00ff Mini Gun",
+		"need_bullet": 1,
+		"weight": 500 
+	} 
+} 

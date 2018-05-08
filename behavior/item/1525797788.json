@@ -1,0 +1,19 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1004158810",
+		"filename": "1525797788",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "#cFFFFFF You can get it in# #c00ff00 events# #cFFFFFF or# #c00ff00 killing monsters.",
+		"icon": "*12059",
+		"id": 100004,
+		"model": "*12059",
+		"name": "#c00ff00 Pixels Coin",
+		"stack_max": 64 
+	} 
+} 

@@ -1,0 +1,29 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1004158810",
+		"filename": "1525799058",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack_type": 0,
+		"break": false,
+		"can_throw": false,
+		"copyid": 10103,
+		"describe": "#cFFFFFF Reload some guns!",
+		"gravity": 3,
+		"icon": "*15003",
+		"id": 100016,
+		"model": "*15003",
+		"name": "#c00ff00 Bullets",
+		"pickable": true,
+		"projectile_attack": 15,
+		"speed_decay": 0,
+		"speed_init": 280,
+		"stack_max": 64,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

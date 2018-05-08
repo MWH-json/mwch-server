@@ -1,0 +1,92 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100004,
+			"key": "1004158810667f325c-1ff1-11e7-93ae-92361f0026711525797788" 
+		} 
+	],
+	"mod_desc": {
+		"author": "1004158810",
+		"filename": "Magmadron",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack": 125,
+		"attack_distance": 1,
+		"attack_type": 0,
+		"buff_id": 0,
+		"desc": "",
+		"drop_exp": 21,
+		"drop_exp_prob": 100,
+		"drop_item1": 11310,
+		"drop_item2": 100004,
+		"drop_item3": 310,
+		"drop_item_prob1": 100,
+		"drop_item_prob2": 100,
+		"drop_item_prob3": 100,
+		"height": 180,
+		"hit_height": 230,
+		"hit_thickness": 150,
+		"hit_width": 150,
+		"icon": "3130",
+		"id": 3130,
+		"life": 250,
+		"model": "100011",
+		"model_scale": 1,
+		"name": "Magmadron",
+		"speed": 200,
+		"team_id": 0,
+		"type": 0,
+		"view_distance": 24,
+		"width": 160 
+	},
+	"set_ai": [
+		{
+			"name": "break_door",
+			"priority": 1 
+		},
+		{
+			"name": "follow_direction",
+			"priority": 1,
+			"speed": 1.1 
+		},
+		{
+			"name": "wander",
+			"priority": 6,
+			"speed": 1 
+		},
+		{
+			"name": "look_idle",
+			"priority": 7 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
+		},
+		{
+			"attack_type": 0,
+			"move_speed": 1,
+			"name": "attack",
+			"priority": 2,
+			"will_trace": false 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": true,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		},
+		{
+			"name": "immune_fire",
+			"type": 2 
+		},
+		{
+			"dist": 800,
+			"name": "watch_closest",
+			"priority": 7 
+		} 
+	] 
+} 

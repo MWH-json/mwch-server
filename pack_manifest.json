@@ -1,0 +1,12 @@
+﻿{
+	"api_version": "0.14.0",
+	"author": "MiniPixelsServer",
+	"authoruin": 1004158810,
+	"description": "Make your own Ultra Survival Mode with our pack",
+	"name": "Mini Pixels Server System",
+	"open_edit": true,
+	"pack_version": "0.1",
+	"restart_required": false,
+	"standalone": false,
+	"uuid": "2b96d66d-509b-475b-96fe-7fc131bc2b90" 
+} 

@@ -1,0 +1,87 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100004,
+			"key": "1004158810667f325c-1ff1-11e7-93ae-92361f0026711525797788" 
+		} 
+	],
+	"mod_desc": {
+		"author": "1004158810",
+		"filename": "Fantom",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack": 50,
+		"attack_distance": 1,
+		"attack_type": 0,
+		"buff_id": 0,
+		"desc": "",
+		"drop_exp": 21,
+		"drop_exp_prob": 100,
+		"drop_item1": 11315,
+		"drop_item2": 11225,
+		"drop_item3": 100004,
+		"drop_item_prob1": 100,
+		"drop_item_prob2": 100,
+		"drop_item_prob3": 100,
+		"height": 270,
+		"hit_height": 300,
+		"hit_thickness": 100,
+		"hit_width": 100,
+		"icon": "3501",
+		"id": 3501,
+		"life": 200,
+		"model": "110035",
+		"model_scale": 1,
+		"name": "Fantom",
+		"speed": 300,
+		"team_id": 0,
+		"type": 0,
+		"view_distance": 20,
+		"width": 90 
+	},
+	"set_ai": [
+		{
+			"name": "follow_direction",
+			"priority": 1,
+			"speed": 1.1 
+		},
+		{
+			"name": "wander",
+			"priority": 2,
+			"speed": 1 
+		},
+		{
+			"name": "look_idle",
+			"priority": 3 
+		},
+		{
+			"attack_type": 0,
+			"move_speed": 1,
+			"name": "attack",
+			"priority": 2,
+			"will_trace": false 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": true,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		},
+		{
+			"monster_id": 3102,
+			"name": "hold_monster",
+			"priority": 0,
+			"prob": 800 
+		},
+		{
+			"monster_id": 3109,
+			"name": "hold_monster",
+			"priority": 0,
+			"prob": 800 
+		} 
+	] 
+} 

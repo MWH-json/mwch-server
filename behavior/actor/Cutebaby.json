@@ -1,0 +1,160 @@
+{
+	"foreign_ids": [
+		{
+			"id": 100004,
+			"key": "1004158810667f325c-1ff1-11e7-93ae-92361f0026711525797788" 
+		} 
+	],
+	"mod_desc": {
+		"author": "1004158810",
+		"filename": "Cutebaby",
+		"uuid": "667f325c-1ff1-11e7-93ae-92361f002671",
+		"version": "1" 
+	},
+	"property": {
+		"attack": 15,
+		"attack_distance": 1,
+		"attack_type": 0,
+		"buff_id": 0,
+		"desc": "",
+		"drop_exp": 21,
+		"drop_exp_prob": 100,
+		"drop_item1": 11326,
+		"drop_item2": 100004,
+		"drop_item3": 241,
+		"drop_item_prob1": 100,
+		"drop_item_prob2": 100,
+		"drop_item_prob3": 100,
+		"height": 70,
+		"hit_height": 100,
+		"hit_thickness": 100,
+		"hit_width": 100,
+		"icon": "3102",
+		"id": 3102,
+		"life": 75,
+		"model": "100027",
+		"model_scale": 1,
+		"name": "Cutebaby",
+		"speed": 250,
+		"team_id": 0,
+		"type": 0,
+		"view_distance": 16,
+		"width": 70 
+	},
+	"set_ai": [
+		{
+			"name": "break_door",
+			"priority": 1 
+		},
+		{
+			"name": "follow_direction",
+			"priority": 1,
+			"speed": 1.1 
+		},
+		{
+			"name": "wander",
+			"priority": 6,
+			"speed": 1 
+		},
+		{
+			"name": "look_idle",
+			"priority": 7 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
+		},
+		{
+			"attack_type": 0,
+			"move_speed": 1,
+			"name": "attack",
+			"priority": 2,
+			"will_trace": false 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": true,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		},
+		{
+			"dist": 800,
+			"name": "watch_closest",
+			"priority": 7 
+		},
+		{
+			"block_id": 239,
+			"is_hit": true,
+			"name": "make_trouble",
+			"priority": 3,
+			"prob": 160,
+			"search_block_dist": 20,
+			"speed": 1 
+		},
+		{
+			"block_id": 229,
+			"is_hit": true,
+			"name": "make_trouble",
+			"priority": 3,
+			"prob": 160,
+			"search_block_dist": 20,
+			"speed": 1 
+		},
+		{
+			"block_id": 230,
+			"is_hit": true,
+			"name": "make_trouble",
+			"priority": 3,
+			"prob": 160,
+			"search_block_dist": 20,
+			"speed": 1 
+		},
+		{
+			"block_id": 236,
+			"is_hit": true,
+			"name": "make_trouble",
+			"priority": 3,
+			"prob": 160,
+			"search_block_dist": 20,
+			"speed": 1 
+		},
+		{
+			"block_id": 241,
+			"is_hit": true,
+			"name": "make_trouble",
+			"priority": 3,
+			"prob": 160,
+			"search_block_dist": 20,
+			"speed": 1 
+		},
+		{
+			"block_id": 724,
+			"is_hit": false,
+			"name": "make_trouble",
+			"priority": 3,
+			"prob": 160,
+			"search_block_dist": 20,
+			"speed": 1 
+		},
+		{
+			"block_id": 715,
+			"is_hit": false,
+			"name": "make_trouble",
+			"priority": 3,
+			"prob": 160,
+			"search_block_dist": 20,
+			"speed": 1 
+		},
+		{
+			"block_id": 716,
+			"is_hit": false,
+			"name": "make_trouble",
+			"priority": 3,
+			"prob": 160,
+			"search_block_dist": 20,
+			"speed": 1 
+		} 
+	] 
+} 

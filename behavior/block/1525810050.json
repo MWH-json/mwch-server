@@ -3,8 +3,8 @@
 	],
 	"item_property": {
 		"copyid": 206,
-		"desc": "Can be made into a toolbox (to make more items)",
-		"describe": "Can be made into a toolbox (to make more items)",
+		"desc": "NO TOCAR",
+		"describe": "No tocar",
 		"icon": "*211",
 		"id": 12005,
 		"model": "*211",
@@ -13,7 +13,7 @@
 	"mod_desc": {
 		"author": "1001510235",
 		"filename": "1525810050",
-		"uuid": "679f77c8-f422-11e6-bc64-92361f002671",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
 		"version": "1" 
 	},
 	"property": {

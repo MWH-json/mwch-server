@@ -10,8 +10,10 @@ Just click this link: http://share.en.mini1.cn:4000/share/?uin=1004863995
 ## Donate real money
 To keep alive this: https://paypal.me/MWConstructoresHisp
 
-## Creators
+## Contributors
 
-In MWH.json we are:
-@zfeikg (Mini Pixels Server System Maker)
-@MrMWBA (Data Mining, Code Contribution)
+Active contributors:
+
+[@zfeikg](https://github.com/zfeikg) - Mini Pixels Server System Maker
+
+[@MrMWBA](https://github.com/MrMWBA) - Data Mining, Code Contribution

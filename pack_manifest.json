@@ -7,12 +7,12 @@
 	"description": "Make your own Ultra Survival Mode Server with our pack",
 	"en_description": "Make your own Ultra Survival Mode Server with our pack",
 	"esn_description": "Haz tu propio server en modo Ultra Survival con este pack",
-	"name": "MWHispanos System",
-	"en_name": "MWHispanos System",
-	"esn_name": "MWHispanos System"
+	"name": "MWCH Server System",
+	"en_name": "MWCH Server System",
+	"esn_name": "MWCH Server System"
 	"open_edit": true,
 	"pack_version": "0.1",
 	"restart_required": false,
 	"standalone": false,
-	"uuid": "667f325c-1ff1-11e7-93ae-92361f002671" 
+	"uuid": "667f325c-1ff1-11e7-93ae-92361f002671"
 } 

@@ -10,7 +10,7 @@
 	"property": {
 		"copyid": 1000,
 		"id": 1013,
-		"is_followme": false,
+		"is_followme": true,
 		"material_count1": 5,
 		"material_count2": 0,
 		"material_count3": 0,

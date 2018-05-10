@@ -12,7 +12,7 @@
 		"version": "1" 
 	},
 	"property": {
-		"bullet_id": 100016,
+		"bullet_id": 4104,
 		"bulletid_filename": "1525799058",
 		"continuous_fire": false,
 		"copyid": 10104,
@@ -20,10 +20,10 @@
 		"fire_interval": 300,
 		"gun_attack": 30,
 		"gun_speed_add": 0,
-		"gun_type": 10105,
+		"gun_type": 10107,
 		"icon": "*15004",
-		"id": 100010,
-		"magazines": 6,
+		"id": 4101,
+		"magazines": 10,
 		"model": "*15004",
 		"name": "#cff00ff AWM",
 		"need_bullet": 1,

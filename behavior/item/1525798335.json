@@ -12,7 +12,7 @@
 		"version": "1" 
 	},
 	"property": {
-		"bullet_id": 100016,
+		"bullet_id": 4104,
 		"bulletid_filename": "1525799058",
 		"continuous_fire": false,
 		"copyid": 10104,
@@ -22,7 +22,7 @@
 		"gun_speed_add": 0,
 		"gun_type": 10105,
 		"icon": "*15002",
-		"id": 100008,
+		"id": 4100,
 		"magazines": 6,
 		"model": "*15002",
 		"name": "#cff00ff Revolver",

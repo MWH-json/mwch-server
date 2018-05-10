@@ -14,6 +14,6 @@
 		"id": 100004,
 		"model": "*12059",
 		"name": "#c00ff00 Mini Coin",
-		"stack_max": 64 
+		"stack_max": 10000 
 	} 
 } 

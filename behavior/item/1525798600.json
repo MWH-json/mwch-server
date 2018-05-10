@@ -12,21 +12,21 @@
 		"version": "1" 
 	},
 	"property": {
-		"bullet_id": 100016,
+		"bullet_id": 4104,
 		"bulletid_filename": "1525799058",
-		"continuous_fire": false,
+		"continuous_fire": true,
 		"copyid": 10104,
 		"describe": "#cFFFFFF AAAAAAAAAAAAAAAAAAAAA TOO MANY BULLETS AAAAAAAA",
-		"fire_interval": 300,
+		"fire_interval": 100,
 		"gun_attack": 30,
 		"gun_speed_add": 0,
-		"gun_type": 10105,
+		"gun_type": 10108,
 		"icon": "*15005",
-		"id": 100012,
-		"magazines": 6,
+		"id": 4102,
+		"magazines": 300,
 		"model": "*15005",
 		"name": "#cff00ff Mini Gun",
 		"need_bullet": 1,
-		"weight": 500 
+		"weight": 1000 
 	} 
 } 

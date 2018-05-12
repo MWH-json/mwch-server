@@ -27,7 +27,7 @@
 		"id": 12004,
 		"light_src": 15,
 		"move_collide": 1,
-		"slipperiness": 1,
+		"slipperiness": 0.1,
 		"tool_mine_drop1": 0 
 	} 
 } 

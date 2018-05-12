@@ -17,17 +17,17 @@
 		"version": "1" 
 	},
 	"property": {
-		"anti_explode": 500,
+		"anti_explode": 1000,
 		"breakable": false,
 		"burn_speed": 0,
 		"catch_fire": 0,
 		"copyid": 104,
 		"english_name": "1525809995",
-		"hardness": 200,
+		"hardness": 1000,
 		"id": 12004,
 		"light_src": 15,
 		"move_collide": 1,
-		"slipperiness": 15,
+		"slipperiness": 1,
 		"tool_mine_drop1": 0 
 	} 
 } 

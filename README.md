@@ -14,6 +14,8 @@ To keep alive this: https://paypal.me/MWConstructoresHisp
 
 Active contributors:
 
-[@zfeikg](https://github.com/zfeikg) - Mini Pixels Server System Maker
+[@zfeikg](https://github.com/zfeikg) - Mini Pixels Server System Maker, Code Contribution
 
 [@MrMWBA](https://github.com/MrMWBA) - Data Mining, Code Contribution
+
+[@Bixtix](https://github.com/Bixtix) - Ideas, Data Mining

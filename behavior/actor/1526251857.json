@@ -1,0 +1,104 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "1526251857",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"attack": 5,
+		"attack_distance": 1,
+		"attack_type": 0,
+		"buff_id": 0,
+		"copyid": 4000,
+		"desc": "",
+		"drop_exp": 0,
+		"drop_exp_prob": 0,
+		"drop_item1": 0,
+		"drop_item2": 0,
+		"drop_item3": 0,
+		"drop_item_prob1": 0,
+		"drop_item_prob2": 0,
+		"drop_item_prob3": 0,
+		"height": 95,
+		"hit_height": 130,
+		"hit_thickness": 130,
+		"hit_width": 130,
+		"icon": "3107",
+		"id": 100037,
+		"life": 9999,
+		"model": "100037",
+		"model_scale": 0.8,
+		"name": "Spider Pet",
+		"speed": 280,
+		"team_id": 0,
+		"type": 1,
+		"view_distance": 16,
+		"width": 95 
+	},
+	"set_ai": [
+		{
+			"name": "follow_direction",
+			"priority": 1,
+			"speed": 1.1 
+		},
+		{
+			"name": "move_towards_restriction",
+			"priority": 4,
+			"speed": 1 
+		},
+		{
+			"name": "wander",
+			"priority": 5,
+			"speed": 1 
+		},
+		{
+			"name": "look_idle",
+			"priority": 7 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
+		},
+		{
+			"attack_type": 0,
+			"move_speed": 1,
+			"name": "attack",
+			"priority": 2,
+			"will_trace": false 
+		},
+		{
+			"brightness": 0,
+			"chance": 0,
+			"check_sight": true,
+			"minhp": 0,
+			"name": "target_nearest",
+			"priority": 2 
+		},
+		{
+			"attach_timer": 200,
+			"name": "ceiling_atk",
+			"priority": 0 
+		},
+		{
+			"name": "immune_fire",
+			"type": 2 
+		},
+		{
+			"dist": 800,
+			"name": "watch_closest",
+			"priority": 7 
+		},
+		{
+			"block_id": 828,
+			"is_hit": false,
+			"name": "make_trouble",
+			"priority": 3,
+			"prob": 200,
+			"search_block_dist": 2000,
+			"speed": 1 
+		} 
+	] 
+} 

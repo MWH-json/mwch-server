@@ -1,0 +1,76 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "1526252087",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"attack": 5,
+		"attack_distance": 1,
+		"buff_id": 0,
+		"copyid": 4000,
+		"desc": "SO CUTE!",
+		"drop_exp": 0,
+		"drop_exp_prob": 0,
+		"drop_item1": 0,
+		"drop_item2": 0,
+		"drop_item3": 0,
+		"drop_item_prob1": 0,
+		"drop_item_prob2": 0,
+		"drop_item_prob3": 0,
+		"height": 45,
+		"hit_height": 50,
+		"hit_thickness": 50,
+		"hit_width": 50,
+		"icon": "3811",
+		"id": 100038,
+		"life": 9999,
+		"model": "110001",
+		"model_scale": 1,
+		"name": "Piggy Pet",
+		"speed": 280,
+		"team_id": 0,
+		"type": 1,
+		"view_distance": 16,
+		"width": 45 
+	},
+	"set_ai": [
+		{
+			"name": "follow_direction",
+			"priority": 1,
+			"speed": 1.1 
+		},
+		{
+			"name": "move_towards_restriction",
+			"priority": 4,
+			"speed": 1 
+		},
+		{
+			"name": "wander",
+			"priority": 5,
+			"speed": 1 
+		},
+		{
+			"name": "look_idle",
+			"priority": 7 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
+		},
+		{
+			"dist": 800,
+			"name": "watch_closest",
+			"priority": 7 
+		},
+		{
+			"dist": 2000,
+			"id": 236,
+			"name": "beg",
+			"priority": 8 
+		} 
+	] 
+} 

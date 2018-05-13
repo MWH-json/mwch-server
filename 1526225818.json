@@ -1,0 +1,33 @@
+{
+	"foreign_ids": [
+	],
+	"item_property": {
+		"copyid": 230,
+		"desc": " No tocar.",
+		"describe": " No tocar.",
+		"icon": "*230",
+		"id": 2012,
+		"model": "*230",
+		"name": "CALABASA LOBBY " 
+	},
+	"mod_desc": {
+		"author": "1004863995",
+		"filename": "1526225818",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"anti_explode": 1000,
+		"breakable": false,
+		"burn_speed": 0,
+		"catch_fire": 0,
+		"copyid": 230,
+		"english_name": "1526225818",
+		"hardness": 1000,
+		"id": 2012,
+		"light_src": 15,
+		"move_collide": 1,
+		"slipperiness": 1,
+		"tool_mine_drop1": 0 
+	} 
+} 

@@ -1,0 +1,31 @@
+{
+	"foreign_ids": [
+	],
+	"item_property": {
+		"desc": "Colócalo para entrar en el modo Supervivencia. Puede ocultarse con otros cubos alrededor. Se usa para conseguir que una zona será inquebrantable.",
+		"describe": "Colócalo para entrar en el modo Supervivencia. Puede ocultarse con otros cubos alrededor. Se usa para conseguir que una zona será inquebrantable.",
+		"icon": "",
+		"id": 1001,
+		"model": "",
+		"name": "Muro de aire" 
+	},
+	"mod_desc": {
+		"author": "1004863995",
+		"filename": "Airwallcube",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"anti_explode": 1000,
+		"breakable": false,
+		"burn_speed": 0,
+		"catch_fire": 0,
+		"english_name": "Airwallcube",
+		"hardness": 1000,
+		"id": 1001,
+		"light_src": 15,
+		"move_collide": 4,
+		"slipperiness": 1,
+		"tool_mine_drop1": 0 
+	} 
+} 

@@ -1,0 +1,33 @@
+{
+	"foreign_ids": [
+	],
+	"item_property": {
+		"copyid": 104,
+		"desc": "No tocar",
+		"describe": "No tocar",
+		"icon": "*422",
+		"id": 12002,
+		"model": "*422",
+		"name": "PIEDRA1 LOBBY" 
+	},
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1525809906",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"anti_explode": 1000,
+		"breakable": false,
+		"burn_speed": 0,
+		"catch_fire": 0,
+		"copyid": 104,
+		"english_name": "1525809906",
+		"hardness": 1000,
+		"id": 12002,
+		"light_src": 15,
+		"move_collide": 1,
+		"slipperiness": 1.0,
+		"tool_mine_drop1": 0 
+	} 
+} 

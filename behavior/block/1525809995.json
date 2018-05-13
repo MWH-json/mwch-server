@@ -2,7 +2,7 @@
 	"foreign_ids": [
 	],
 	"item_property": {
-		"copyid": 104,
+		"copyid": 104,j
 		"desc": "No tocar",
 		"describe": "No tocar",
 		"icon": "*104",
@@ -27,7 +27,7 @@
 		"id": 12004,
 		"light_src": 15,
 		"move_collide": 1,
-		"slipperiness": 0.1,
+		"slipperiness": 1.0,
 		"tool_mine_drop1": 0 
 	} 
 } 

@@ -1,0 +1,33 @@
+{
+	"foreign_ids": [
+	],
+	"item_property": {
+		"copyid": 206,
+		"desc": "No tocar.",
+		"describe": "No tocar.",
+		"icon": "*411",
+		"id": 2013,
+		"model": "*411",
+		"name": "HIERRO LOBBY" 
+	},
+	"mod_desc": {
+		"author": "1004863995",
+		"filename": "1526225876",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"anti_explode": 1000,
+		"breakable": false,
+		"burn_speed": 0,
+		"catch_fire": 0,
+		"copyid": 206,
+		"english_name": "1526225876",
+		"hardness": 1000,
+		"id": 2013,
+		"light_src": 14,
+		"move_collide": 1,
+		"slipperiness": 1.1,
+		"tool_mine_drop1": 0 
+	} 
+} 

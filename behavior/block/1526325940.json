@@ -1,0 +1,33 @@
+{
+	"foreign_ids": [
+	],
+	"item_property": {
+		"copyid": 511,
+		"desc": "No tocar",
+		"describe": "No tocar",
+		"icon": "*104",
+		"id": 2022,
+		"model": "*511",
+		"name": "SLAB P1 LOBBY" 
+	},
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1526325940",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"anti_explode": 500,
+		"breakable": false,
+		"burn_speed": 0,
+		"catch_fire": 0,
+		"copyid": 104,
+		"english_name": "1526325940",
+		"hardness": 200,
+		"id": 2022,
+		"light_src": 15,
+		"move_collide": 1,
+		"slipperiness": 1,
+		"tool_mine_drop1": 0 
+	} 
+} 

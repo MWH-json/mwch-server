@@ -8,7 +8,7 @@
 			"Functions": [
 				{
 					"CallNum": 1,
-					"Duration": 300,
+					"Duration": 31536000,
 					"IsFollow": 1,
 					"MobID": 5 
 				} 
@@ -42,7 +42,7 @@
 		"id": 4099,
 		"model": "*12282",
 		"name": "#cFFC0CB Piggy Pet",
-		"pickable": true,
+		"pickable": false,
 		"projectile_attack": 0,
 		"speed_decay": 0,
 		"speed_init": 280,

@@ -4,15 +4,13 @@ Source of the Plugin Pack used in the MWCH server, the first server fully modded
 ## Join us today!
 ``` UID:4863995 ``` (still closed beta)
 
-## Donate minibeans!
-Just click this link: http://share.en.mini1.cn:4000/share/?uin=1004863995
+## Donate
 
-## Donate real money
-To keep alive this: https://paypal.me/MWConstructoresHisp
+[![Donate Money](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/MWConstructoresHisp) or
+[![Donate Minibeans](https://img.shields.io/badge/minibeans-donate-brightgreen.svg)](http://share.en.mini1.cn:4000/share/?uin=1004863995) 
+
 
 ## Contributors
-
-Active contributors:
 
 [@zfeikg](https://github.com/zfeikg) - Mini Pixels Server System Maker, Code Contribution
 

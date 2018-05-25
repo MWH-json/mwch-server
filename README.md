@@ -1,4 +1,5 @@
-# mwch-server
+# mwch-server [![GitHub stars](https://img.shields.io/github/stars/MWH-json/mwch-server.svg?style=for-the-badge)](https://github.com/MWH-json/mwch-server/stargazers)
+
 [![Donate Minibeans](https://img.shields.io/badge/minibeans-donate-brightgreen.svg?style=for-the-badge)](http://share.en.mini1.cn:4000/share/?uin=1004863995) [![Donate Money](https://img.shields.io/badge/paypal-donate-blue.svg?style=for-the-badge)](https://www.paypal.me/MWConstructoresHisp)
 ![GitHub tag](https://img.shields.io/github/tag/mwh-json/mwch-server.svg?style=for-the-badge)
 

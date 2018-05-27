@@ -1,0 +1,53 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"Costs": [
+			],
+			"Functions": [
+				{
+					"CallNum": 1,
+					"Duration": 300,
+					"IsFollow": 1,
+					"MobID": 2 
+				} 
+			],
+			"RangeType": 1,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"TargetCamp": 0,
+			"name": "feature_call_monster_throw",
+			"priority": 0,
+			"templateid": 203 
+		} 
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "1526264318",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"accumulate_time": 1,
+		"accumulator_type": 0,
+		"attack_type": 0,
+		"break": false,
+		"can_throw": true,
+		"copyid": 10103,
+		"describe": "Your new pet is here!",
+		"gravity": 3,
+		"icon": "*12282",
+		"id": 4105,
+		"model": "*12282",
+		"name": "#Y Chick Pet",
+		"pickable": true,
+		"projectile_attack": 0,
+		"speed_decay": 0,
+		"speed_init": 280,
+		"stack_max": 1,
+		"trigger_condition": 3,
+		"trigger_delay": 0 
+	} 
+} 

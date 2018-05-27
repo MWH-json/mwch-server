@@ -10,10 +10,12 @@
 	"property": {
 		"copyid": 10100,
 		"describe": "#cFFFFFF You can get it in# #c00ff00 events# #cFFFFFF or# #c00ff00 killing monsters.",
+			"esn_describe": "#cFFFFFF Puedes conseguirla en# #c00ff00 eventos# #cFFFFFF o# #c00ff00 matando monstruos.",
 		"icon": "*12059",
 		"id": 100004,
 		"model": "*12059",
 		"name": "#c00ff00 Mini Coin",
-		"stack_max": 10000 
+			"esn_name": "#c00ff00 Mini Moneda",
+		"stack_max": 10000
 	} 
 } 

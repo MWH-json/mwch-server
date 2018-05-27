@@ -1,14 +1,18 @@
-# mwch-server [![GitHub stars](https://img.shields.io/github/stars/MWH-json/mwch-server.svg?style=for-the-badge)](https://github.com/MWH-json/mwch-server/stargazers)
-
-[![Donate Minibeans](https://img.shields.io/badge/minibeans-donate-brightgreen.svg?style=for-the-badge)](http://share.en.mini1.cn:4000/share/?uin=1004863995) [![Donate Money](https://img.shields.io/badge/paypal-donate-blue.svg?style=for-the-badge)](https://www.paypal.me/MWConstructoresHisp)
-[![Join Discord](https://img.shields.io/badge/Discord-join-red.svg?style=for-the-badge)](https://discord.gg/TyWjqZ9)
-![GitHub tag](https://img.shields.io/github/tag/mwh-json/mwch-server.svg?style=for-the-badge)
-
+# mwch-server
 Source of the Plugin Pack used in the MWCH server, the first server fully modded with currency, mounts, pets, minigames and many more!
 
-![Plugin Library Showcase](https://preview.ibb.co/iiTmT8/advancedlikethis.png)
+## Join us today!
+``` UID:4863995 ``` (still closed beta)
+
+## Donate minibeans!
+Just click this link: http://share.en.mini1.cn:4000/share/?uin=1004863995
+
+## Donate real money
+To keep alive this: https://paypal.me/MWConstructoresHisp
 
 ## Contributors
+
+Active contributors:
 
 [@zfeikg](https://github.com/zfeikg) - Mini Pixels Server System Maker, Code Contribution
 

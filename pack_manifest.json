@@ -26,7 +26,7 @@
 	"fra_author":"MWHispano",
 	"jpn_author":"MWHispano",
 	"ara_author":"MWHispano",
-    "pack_version":"0.4", 
+    "pack_version":"1.0", 
     "api_version":"0.24.0",
 	"mod_type":0,
     "restart_required":false,
@@ -34,5 +34,5 @@
     "standalone":false,
     "uuid":"90b4c879-b9a8-443d-860d-6e6aad5f3e83",
 	"author_head_iconindex":0,
-	"authoruin":1004864995,
+	"authoruin":1004864995
 }

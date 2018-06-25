@@ -27,7 +27,7 @@
 	"jpn_author":"MWHispano",
 	"ara_author":"MWHispano",
     "pack_version":"1.0", 
-    "api_version":"0.24.0",
+    "api_version":"0.26.0",
 	"mod_type":0,
     "restart_required":false,
 	"open_edit":true,

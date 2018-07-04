@@ -4,7 +4,7 @@ Source of the Plugin Pack used in the MWCH server, the first server fully modded
 
 ![Plugin Library Showcase](https://preview.ibb.co/iiTmT8/advancedlikethis.png)
 
- ## :sparkles: Features :sparkles:
+ ## :sparkles: Features / To Do :sparkles:
  
 - [x] Fully customizable
 - [ ] Level System

@@ -4,8 +4,11 @@ Source of the Plugin Pack used in the MWCH server, the first server fully modded
 
 ![Plugin Library Showcase](https://preview.ibb.co/iiTmT8/advancedlikethis.png)
  
- ## Contributors
+ ## :sparkles: Contributors :sparkles:
  
- [@zfeikg](https://github.com/zfeikg) - Mini Pixels Server System Maker, Code Contribution
+ Active Developers and Contributors:
  
- [@MrMWBA](https://github.com/MrMWBA) - Data Mining, Code Contribution
+| ![zfeikg](https://avatars2.githubusercontent.com/u/39036738?s=100&v=4) |   |  ![MrMWBA](https://avatars2.githubusercontent.com/u/37913162?s=100&v=4) |
+|------------------------------------------------------------------------|---|-------------------------------------------------------------------------|
+| zfeikg                                                                 |   | MrMWBA                                                                  |
+| Code Contribution                                                      |   | Code Contribution, Ideas                                                |

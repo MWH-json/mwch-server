@@ -3,7 +3,18 @@
 Source of the Plugin Pack used in the MWCH server, the first server fully modded with currency, mounts, pets, minigames and many more!
 
 ![Plugin Library Showcase](https://preview.ibb.co/iiTmT8/advancedlikethis.png)
+
+ ## :sparkles: Features :sparkles:
  
+- [x] Fully customizable
+- [ ] Level System
+- [x] Currency System
+- [x] Inventory Shop
+- [x] Pets
+- [ ] Mounts
+- [x] Open Source
+- [ ] Event/Quest System
+
  ## :sparkles: Contributors :sparkles:
  
  Active Developers and Contributors:

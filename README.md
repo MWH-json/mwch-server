@@ -8,7 +8,7 @@ Source of the Plugin Pack used in the MWCH server, the first server fully modded
  
  Active Developers and Contributors:
  
-| ![zfeikg](https://avatars2.githubusercontent.com/u/39036738?s=100&v=4) |   |  ![MrMWBA](https://avatars2.githubusercontent.com/u/37913162?s=100&v=4) |
-|------------------------------------------------------------------------|---|-------------------------------------------------------------------------|
-| zfeikg                                                                 |   | MrMWBA                                                                  |
-| Code Contribution                                                      |   | Code Contribution, Ideas                                                |
+| ![zfeikg](https://avatars2.githubusercontent.com/u/39036738?s=100&v=4) |  ![MrMWBA](https://avatars2.githubusercontent.com/u/37913162?s=100&v=4) |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| zfeikg                                                                 | MrMWBA                                                                  |
+| Code Contribution                                                      | Code Contribution, Ideas                                                |

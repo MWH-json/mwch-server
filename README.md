@@ -1,8 +1,4 @@
-# mwch-server [![GitHub stars](https://img.shields.io/github/stars/MWH-json/mwch-server.svg?style=for-the-badge)](https://github.com/MWH-json/mwch-server/stargazers)
- 
-[![Donate Money](https://img.shields.io/badge/paypal-donate-blue.svg?style=for-the-badge)](https://www.paypal.me/MWConstructoresHisp)
-[![Join Discord](https://img.shields.io/badge/Discord-join-blue.svg?style=for-the-badge)](https://discord.gg/TyWjqZ9)
-![GitHub tag](https://img.shields.io/github/tag/mwh-json/mwch-server.svg?style=for-the-badge)
+# mwch-server [![Join Discord](https://img.shields.io/github/downloads/MWH-json/mwch-server/latest/total.svg)](https://github.com/MWH-json/mwch-server/releases) [![Donate Money](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/MWConstructoresHisp) [![Join Discord](https://img.shields.io/badge/discord-join-blue.svg)](https://discord.gg/TyWjqZ9)
 
 Source of the Plugin Pack used in the MWCH server, the first server fully modded with currency, mounts, pets, minigames and many more!
 

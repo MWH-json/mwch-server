@@ -13,7 +13,8 @@ Source of the Plugin Pack used in the MWCH server, the first server fully modded
 - [x] Pets
 - [ ] Mounts
 - [x] Open Source
-- [ ] Event/Quest System
+- [x] NPCs
+- [ ] Quest System (in progress)
 
  ## :sparkles: Contributors :sparkles:
  

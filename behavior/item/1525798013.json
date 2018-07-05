@@ -9,11 +9,11 @@
 	},
 	"property": {
 		"copyid": 10100,
-		"describe": "#cFFFFFF Used to play# #c00ff00 Roullete#",
+		"describe": "#cFFFFFF get a Random effect!",
 		"icon": "*12836",
 		"id": 100005,
-		"model": "*12836",
-		"name": "#c00ff00 Red Ticket",
+		"model": "fruit_big",
+		"name": "#c00ff00 Big Fruit",
 		"stack_max": 10000 
 	} 
 } 

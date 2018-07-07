@@ -1,0 +1,108 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "Cow",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"Effect": "",
+		"TextureID": 0,
+		"attack": 1,
+		"attack_distance": 1,
+		"buff_id": 0,
+		"desc": "",
+		"drop_exp": 1,
+		"drop_exp_prob": 100,
+		"drop_item1": 12516,
+		"drop_item2": 11307,
+		"drop_item3": 4097,
+		"drop_item_prob1": 100,
+		"drop_item_prob2": 100,
+		"drop_item_prob3": 100,
+		"height": 150,
+		"hit_height": 180,
+		"hit_thickness": 180,
+		"hit_width": 140,
+		"icon": "3401",
+		"id": 3401,
+		"life": 60,
+		"model": "110031",
+		"model_scale": 1,
+		"name": "Cow",
+		"speed": 280,
+		"team_id": 0,
+		"type": 1,
+		"view_distance": 16,
+		"width": 160 
+	},
+	"set_ai": [
+		{
+			"name": "follow_direction",
+			"priority": 1,
+			"speed": 1.1 
+		},
+		{
+			"name": "mate",
+			"priority": 2,
+			"speed": 1.2 
+		},
+		{
+			"name": "follow_parent",
+			"priority": 6,
+			"speed": 1.1 
+		},
+		{
+			"name": "wander",
+			"priority": 7,
+			"speed": 1 
+		},
+		{
+			"name": "look_idle",
+			"priority": 9 
+		},
+		{
+			"name": "milking",
+			"priority": 3 
+		},
+		{
+			"item_id": 12578,
+			"name": "logger_heads",
+			"priority": 4,
+			"speed": 0.8 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
+		},
+		{
+			"name": "avoid_water" 
+		},
+		{
+			"name": "panic",
+			"priority": 1,
+			"speed": 2 
+		},
+		{
+			"id": 229,
+			"name": "tempt",
+			"priority": 5,
+			"scared": false,
+			"speed": 1.25 
+		},
+		{
+			"id": 11400,
+			"name": "tempt",
+			"priority": 6,
+			"scared": false,
+			"speed": 1.25 
+		},
+		{
+			"dist": 600,
+			"name": "watch_closest",
+			"priority": 8 
+		} 
+	] 
+} 

@@ -1,0 +1,109 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "Sheep",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"Effect": "",
+		"TextureID": 0,
+		"attack": 1,
+		"attack_distance": 1,
+		"buff_id": 0,
+		"desc": "",
+		"drop_exp": 1,
+		"drop_exp_prob": 100,
+		"drop_item1": 12530,
+		"drop_item2": 600,
+		"drop_item3": 4097,
+		"drop_item_prob1": 100,
+		"drop_item_prob2": 100,
+		"drop_item_prob3": 100,
+		"height": 150,
+		"hit_height": 160,
+		"hit_thickness": 160,
+		"hit_width": 140,
+		"icon": "3403",
+		"id": 3403,
+		"life": 60,
+		"model": "110029",
+		"model_scale": 1,
+		"name": "Sheep",
+		"speed": 280,
+		"team_id": 0,
+		"type": 1,
+		"view_distance": 16,
+		"width": 160 
+	},
+	"set_ai": [
+		{
+			"name": "follow_direction",
+			"priority": 1,
+			"speed": 1.1 
+		},
+		{
+			"name": "mate",
+			"priority": 2,
+			"speed": 1 
+		},
+		{
+			"name": "eat_grass",
+			"priority": 6 
+		},
+		{
+			"name": "eat_leaf",
+			"priority": 5,
+			"prob": 5,
+			"prob_adult": 200 
+		},
+		{
+			"name": "eat_flower",
+			"priority": 5,
+			"prob": 5,
+			"prob_adult": 200 
+		},
+		{
+			"name": "wander",
+			"priority": 7,
+			"speed": 1 
+		},
+		{
+			"name": "look_idle",
+			"priority": 9 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
+		},
+		{
+			"name": "avoid_water" 
+		},
+		{
+			"name": "panic",
+			"priority": 1,
+			"speed": 1.25 
+		},
+		{
+			"id": 229,
+			"name": "tempt",
+			"priority": 4,
+			"scared": false,
+			"speed": 1.1 
+		},
+		{
+			"id": 11400,
+			"name": "tempt",
+			"priority": 4,
+			"scared": false,
+			"speed": 1.25 
+		},
+		{
+			"dist": 600,
+			"name": "watch_closest",
+			"priority": 8 
+		} 
+	] 
+} 

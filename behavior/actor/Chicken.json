@@ -1,0 +1,105 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "Chicken",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"Effect": "",
+		"TextureID": 0,
+		"attack": 1,
+		"attack_distance": 1,
+		"buff_id": 0,
+		"desc": "",
+		"drop_exp": 1,
+		"drop_exp_prob": 100,
+		"drop_item1": 12518,
+		"drop_item2": 11303,
+		"drop_item3": 4097,
+		"drop_item_prob1": 100,
+		"drop_item_prob2": 100,
+		"drop_item_prob3": 100,
+		"height": 80,
+		"hit_height": 80,
+		"hit_thickness": 80,
+		"hit_width": 80,
+		"icon": "3400",
+		"id": 3400,
+		"life": 30,
+		"model": "110003",
+		"model_scale": 0.9,
+		"name": "Chicken",
+		"speed": 280,
+		"team_id": 0,
+		"type": 1,
+		"view_distance": 16,
+		"width": 60 
+	},
+	"set_ai": [
+		{
+			"name": "follow_direction",
+			"priority": 1,
+			"speed": 1.1 
+		},
+		{
+			"name": "follow_parent",
+			"priority": 4,
+			"speed": 1.1 
+		},
+		{
+			"hatch_blockid": 1019,
+			"max_ticks": 200,
+			"name": "hatch",
+			"priority": 5 
+		},
+		{
+			"feed_block": 1020,
+			"max_ticks": 40,
+			"name": "eat_feed_block",
+			"priority": 6 
+		},
+		{
+			"block_id": 1019,
+			"egg_id": 12052,
+			"name": "lay_egg_in_nest",
+			"nestgen": 3000,
+			"priority": 7 
+		},
+		{
+			"name": "wander",
+			"priority": 8,
+			"speed": 1 
+		},
+		{
+			"name": "look_idle",
+			"priority": 10 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
+		},
+		{
+			"name": "can_fly" 
+		},
+		{
+			"name": "panic",
+			"priority": 1,
+			"speed": 1.4 
+		},
+		{
+			"id": 1020,
+			"name": "tempt",
+			"priority": 3,
+			"scared": false,
+			"speed": 1 
+		},
+		{
+			"dist": 600,
+			"name": "watch_closest",
+			"priority": 9 
+		} 
+	] 
+} 

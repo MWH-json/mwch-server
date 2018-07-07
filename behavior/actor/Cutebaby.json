@@ -12,6 +12,8 @@
 		"version": "1" 
 	},
 	"property": {
+		"Effect": "",
+		"TextureID": 0,
 		"attack": 15,
 		"attack_distance": 1,
 		"attack_type": 0,
@@ -20,8 +22,8 @@
 		"drop_exp": 21,
 		"drop_exp_prob": 100,
 		"drop_item1": 11326,
-		"drop_item2": 100004,
-		"drop_item3": 241,
+		"drop_item2": 4097,
+		"drop_item3": 4114,
 		"drop_item_prob1": 100,
 		"drop_item_prob2": 100,
 		"drop_item_prob3": 100,

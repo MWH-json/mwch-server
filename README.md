@@ -15,6 +15,7 @@ Source of the Plugin Pack used in the MWCH server, the first server fully modded
 - [x] Open Source
 - [x] NPCs
 - [ ] Quest System (in progress)
+- [ ] Player Stats System (in progress)
 
  ## :sparkles: Contributors :sparkles:
  

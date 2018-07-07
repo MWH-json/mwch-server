@@ -1,0 +1,36 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "1530988791",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 1000,
+		"id": 1005,
+		"is_followme": true,
+		"material_count1": 30,
+		"material_count2": 0,
+		"material_count3": 0,
+		"material_count4": 0,
+		"material_count5": 0,
+		"material_count6": 0,
+		"material_count7": 0,
+		"material_count8": 0,
+		"material_count9": 0,
+		"material_id1": 4097,
+		"material_id2": 0,
+		"material_id3": 0,
+		"material_id4": 0,
+		"material_id5": 0,
+		"material_id6": 0,
+		"material_id7": 0,
+		"material_id8": 0,
+		"material_id9": 0,
+		"result_count": 1,
+		"result_id": 4114,
+		"type": 0 
+	} 
+} 

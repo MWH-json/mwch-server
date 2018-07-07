@@ -1,0 +1,19 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "1530988067",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "Used to get the Healing Ability.",
+		"icon": "*12059",
+		"id": 4098,
+		"model": "*12059",
+		"name": "#R Healing Shard",
+		"stack_max": 64 
+	} 
+} 

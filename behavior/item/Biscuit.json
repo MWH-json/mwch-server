@@ -1,0 +1,20 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "Biscuit",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"add_food": 10,
+		"add_foodstate": 2,
+		"describe": "Eat it to recover 10 satiety and it increases digging speed by 20% within 45s.",
+		"heal_actor": 0,
+		"id": 12507,
+		"name": "Waffle",
+		"stack_max": 64,
+		"use_time": 30 
+	} 
+} 

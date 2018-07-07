@@ -1,0 +1,48 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 0.5,
+			"ChargeType": 2,
+			"Cooldown": 64,
+			"Costs": [
+				{
+					"CostTarget": 4113,
+					"CostType": 2,
+					"CostVal": 0 
+				} 
+			],
+			"Functions": [
+				{
+					"TreatType": 0,
+					"TreatVal": 100 
+				} 
+			],
+			"RangeType": 0,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"SkillType": 1,
+			"TargetCamp": 0,
+			"name": "feature_cure",
+			"priority": 0,
+			"templateid": 106 
+		} 
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "1530987851",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "Heal your Character.",
+		"icon": "*12059",
+		"id": 4113,
+		"model": "*12059",
+		"name": "#R Healing",
+		"stack_max": 64 
+	} 
+} 

@@ -1,0 +1,51 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 0.5,
+			"ChargeType": 2,
+			"Cooldown": 2,
+			"Costs": [
+				{
+					"CostTarget": 4111,
+					"CostType": 2,
+					"CostVal": 0 
+				} 
+			],
+			"Functions": [
+				{
+					"AttackType": 0,
+					"AttackVal": 0,
+					"BuffID": 6001,
+					"Duration": 2,
+					"Odds": 100 
+				} 
+			],
+			"RangeType": 0,
+			"RangeVal1": 1000,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"SkillType": 1,
+			"TargetCamp": 0,
+			"name": "feature_buff",
+			"priority": 0,
+			"templateid": 104 
+		} 
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "1530986573",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "It gives you Jump High for 2 seconds.",
+		"icon": "*12058",
+		"id": 4111,
+		"model": "*12058",
+		"name": "#Y High Jump",
+		"stack_max": 1 
+	} 
+} 

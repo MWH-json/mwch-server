@@ -1,0 +1,35 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "Brown ball powder",
+		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
+		"version": "1" 
+	},
+	"property": {
+		"id": 247,
+		"is_followme": false,
+		"material_count1": 1,
+		"material_count2": 0,
+		"material_count3": 0,
+		"material_count4": 0,
+		"material_count5": 0,
+		"material_count6": 0,
+		"material_count7": 0,
+		"material_count8": 0,
+		"material_count9": 0,
+		"material_id1": 11403,
+		"material_id2": 0,
+		"material_id3": 0,
+		"material_id4": 0,
+		"material_id5": 0,
+		"material_id6": 0,
+		"material_id7": 0,
+		"material_id8": 0,
+		"material_id9": 0,
+		"result_count": 2,
+		"result_id": 11512,
+		"type": 2 
+	} 
+} 

@@ -10,7 +10,7 @@
 					"CallNum": 1,
 					"Duration": 31536000,
 					"IsFollow": 1,
-					"MobID": 100038 
+					"MobID": 5 
 				} 
 			],
 			"RangeType": 1,
@@ -39,7 +39,7 @@
 		"describe": "Your new Piggy is here!",
 		"gravity": 3,
 		"icon": "*12282",
-		"id": 4099,
+		"id": 4108,
 		"model": "*12282",
 		"name": "#cFFC0CB Piggy Pet",
 		"pickable": false,

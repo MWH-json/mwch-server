@@ -10,7 +10,7 @@
 					"CallNum": 1,
 					"Duration": 31536000,
 					"IsFollow": 1,
-					"MobID": 100037 
+					"MobID": 4 
 				} 
 			],
 			"RangeType": 1,
@@ -39,7 +39,7 @@
 		"describe": "Your new spider is here!",
 		"gravity": 3,
 		"icon": "*12282",
-		"id": 4098,
+		"id": 4107,
 		"model": "*12282",
 		"name": "#c800080 Spider Pet",
 		"pickable": false,

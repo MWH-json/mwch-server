@@ -8,9 +8,9 @@
 			"Functions": [
 				{
 					"CallNum": 1,
-					"Duration": 31536000,
+					"Duration": 300,
 					"IsFollow": 1,
-					"MobID": 100035 
+					"MobID": 3813 
 				} 
 			],
 			"RangeType": 1,

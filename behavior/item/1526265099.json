@@ -10,7 +10,7 @@
 					"CallNum": 1,
 					"Duration": 31536000,
 					"IsFollow": 1,
-					"MobID": 100036 
+					"MobID": 3 
 				} 
 			],
 			"RangeType": 1,
@@ -39,7 +39,7 @@
 		"describe": "Your new dog is here!",
 		"gravity": 3,
 		"icon": "*12282",
-		"id": 4097,
+		"id": 4106,
 		"model": "*12282",
 		"name": "#B Dog Pet",
 		"pickable": false,

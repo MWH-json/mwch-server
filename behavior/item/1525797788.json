@@ -13,8 +13,8 @@
 			"esn_describe": "#cFFFFFF Puedes conseguirla en# #c00ff00 eventos# #cFFFFFF o# #c00ff00 matando monstruos.",
 		"icon": "minicoin",
 		"id": 100004,
-		"model": "*12059",
-		"name": "#c00ff00 M Gold",
+		"model": "minicoin",
+		"name": "#c00ff00 Mini Coin",
 			"esn_name": "#c00ff00 Mini Moneda",
 		"stack_max": 10000
 	} 

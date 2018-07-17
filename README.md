@@ -6,15 +6,15 @@ Source of the Plugin Pack used in the MWCH server, the first server fully modded
 
  ## :sparkles: Features / To Do :sparkles:
  
-- [x] Fully Customizable
 - [x] Currency System
 - [x] Inventory Shop
 - [x] Pets
 - [x] NPCs
 - [x] Player Abilities
+- [x] Rideable Vehicles
+- [ ] Mounts
 - [ ] Quest System
 - [ ] Level System
-- [ ] Mounts
 
  ## :sparkles: Contributors :sparkles:
  

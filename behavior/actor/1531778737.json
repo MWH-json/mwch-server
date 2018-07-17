@@ -3,7 +3,7 @@
 	],
 	"mod_desc": {
 		"author": "1000872134",
-		"filename": "1531758523",
+		"filename": "1531778737",
 		"uuid": "90b4c879-b9a8-443d-860d-6e6aad5f3e83",
 		"version": "1" 
 	},
@@ -14,7 +14,7 @@
 		"attack_distance": 1,
 		"buff_id": 0,
 		"copyid": 4000,
-		"desc": "RUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU",
+		"desc": "RRRRRRRRU",
 		"drop_exp": 0,
 		"drop_exp_prob": 0,
 		"drop_item1": 0,
@@ -28,14 +28,14 @@
 		"hit_thickness": 120,
 		"hit_width": 120,
 		"icon": "3402",
-		"id": 7,
+		"id": 9,
 		"life": 150,
 		"mass": 999999,
 		"model": "13802",
-        "texture": "rayo_mcqueen_v8",
+        "texture": "BMrW_r",
         "sound": "motor",
 		"model_scale": 1.1,
-		"name": "Fast Car",
+		"name": "BMrW Red",
 		"speed": 0,
 		"team_id": 0,
 		"type": 0,
@@ -61,6 +61,10 @@
 		{
 			"name": "look_idle",
 			"priority": 7 
+		},
+		{
+			"name": "swimming",
+			"priority": 1 
 		} 
 	] 
 } 

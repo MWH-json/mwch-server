@@ -43,28 +43,5 @@
 		"width": 80 
 	},
 	"set_ai": [
-		{
-			"name": "follow_direction",
-			"priority": 1,
-			"speed": 1.1 
-		},
-		{
-			"name": "move_towards_restriction",
-			"priority": 4,
-			"speed": 1 
-		},
-		{
-			"name": "wander",
-			"priority": 5,
-			"speed": 1 
-		},
-		{
-			"name": "look_idle",
-			"priority": 7 
-		},
-		{
-			"name": "swimming",
-			"priority": 1 
-		} 
 	] 
 } 
